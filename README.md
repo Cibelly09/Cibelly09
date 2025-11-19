@@ -2,19 +2,10 @@
   <span style="
     color:#00eaff;
     text-shadow: 0 0 8px #00eaff, 0 0 12px #00eaff, 0 0 30px #00eaff;
-    animation: pulse 2s infinite;
   ">
     ✨ Cibelly Viegas — Data Science & Analytics
   </span>
 </h1>
-
-<style>
-@keyframes pulse {
-  0% { text-shadow: 0 0 8px #00eaff; }
-  50% { text-shadow: 0 0 20px #00eaff, 0 0 35px #00eaff; }
-  100% { text-shadow: 0 0 8px #00eaff; }
-}
-</style>
 
 <p align="center">
   <strong>Construindo soluções inteligentes com dados, IA aplicada e visualizações avançadas.</strong>
@@ -60,7 +51,6 @@ Apaixonada por análises que contam histórias — seja no setor público, corpo
 
 <div align="center">
 
-<!-- Badges -->
 <img src="https://img.shields.io/badge/Python-00eaff?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-00eaff?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-00eaff?style=for-the-badge&logo=r&logoColor=white"/>
@@ -68,7 +58,6 @@ Apaixonada por análises que contam histórias — seja no setor público, corpo
 
 <br><br>
 
-<!-- Tabela -->
 <table>
 <tr><th>Categoria</th><th>Ferramentas</th></tr>
 <tr><td><strong>Linguagens</strong></td><td>Python • SQL • R</td></tr>
@@ -111,4 +100,3 @@ Estruturas de projeto para portfólios de BI/DS
 <br>
 
 <p align="center"><i>“A curiosidade é o que transforma dados em conhecimento.”</i></p>
-
