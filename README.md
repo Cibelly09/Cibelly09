@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 Oi, eu sou a **Cibelly Viegas**  
-### Cientista de Dados • Analytics • Modelagem Dimensional • BI Futurista • IA Aplicada  
+# 👋 Oi, eu sou a **Cibelly Viegas**
+Cientista de Dados • Analytics • BI • IA Aplicada
 
-Sou movida por desafios e pela vontade de transformar dados complexos em histórias claras e estratégicas.  
-Trabalho com **modelagem de dados, análise estatística, machine learning aplicado e storytelling com BI** — sempre com foco em impacto real e visual impecável.
+✨ Transformo dados em narrativas inteligentes usando Python, SQL, R e Power BI — com foco em análises eleitorais, comportamento populacional, clusterização e modelagem dimensional.
 
 </div>
 
@@ -14,54 +13,59 @@ Trabalho com **modelagem de dados, análise estatística, machine learning aplic
 
 ## 🚀 O que eu faço
 
-✨ Limpeza, preparação e transformação de dados  
-✨ Consultas SQL avançadas (joins, CTEs, modelagem dimensional)  
-✨ Clusterização, ACM, EDA e análises estatísticas  
-✨ Dashboards profissionais com theme **Neon Cyber**  
-✨ IA aplicada, automação e NLP  
-✨ Análise espacial (QGIS) e mapas temáticos  
-
 </div>
+
+- 🧹 Limpeza, padronização e integração de dados (Python, Pandas)  
+- 🧠 Análises estatísticas, clusterização (K-Means) e ACM  
+- 📊 Storytelling com dashboards profissionais em **Power BI**  
+- 🧾 SQL avançado (CTEs, joins, janelas, agregações, modelagem dimensional)  
+- 🤖 Aplicações reais de **IA e NLP**  
+- 🗺️ Análises espaciais (QGIS)  
+- 🛠️ Construção de pipelines e automações analíticas
 
 ---
 
 <div align="center">
 
-# 🧩 **Projetos em Destaque**
+# 🧩 Projetos em Destaque
 
 </div>
 
-### 🔥 **📌 CASE PRINCIPAL — Análise Eleitoral + ACM + K-Means + Power BI**
-<div align="center">
+## 🔥 **CASE PRINCIPAL — Eleitores com Deficiência (ACM + K-Means + BI Futurista)**
+📌 Case completo com modelagem dimensional, ACM, clusterização, análise regional e dashboard premium Neon.
 
-### 🗳️ **[Case 1 — Perfil Eleitoral de Pessoas com Deficiência](https://github.com/Cibelly09/BI)**  
+🔗 **https://github.com/Cibelly09/BI**
 
-Case completo unindo:  
-✔ ACM (Análise de Correspondência Múltipla)  
-✔ Clusterização (K-Means)  
-✔ Análise geográfica (mapas)  
-✔ Storytelling avançado  
-✔ Tema visual **Futurista Neon**  
-✔ Modelagem dimensional **Estrela + Snowflake**  
-✔ Dados granulares (`df_obs`)  
-✔ GIF do dashboard  
-✔ Projeto aceito para **publicação acadêmica**
-
-</div>
+🎥 *GIF do dashboard animado:*  
+<img src="imgs/case1_dashboard.gif" width="750">
 
 ---
 
-### 🤖 **Mini Pipelines de IA**  
-Automação leve, NLP inicial e scripts funcionais.  
-🔗 https://github.com/Cibelly09/Cibelly09
+## 🕵️‍♀️ **WebScraping Google News — Automação + Gráficos**
+Coleta automatizada, filtros inteligentes, exportação em CSV e visualizações simuladas.
 
-### 🧮 **Projetos SQL**  
-Consultas SQL + modelagem dimensional aplicada.  
+🔗 https://github.com/Cibelly09/WEBSCRAPING-GOOGLE
+
+---
+
+## 🧹 **Data Cleaning — Pipeline de Limpeza e Padronização**
+Scripts reais de limpeza, normalização, remoção de ruído e merge de múltiplas bases.
+
+🔗 https://github.com/Cibelly09/data-cleaning-python
+
+---
+
+## 🧮 **Projetos SQL — Análises e Modelagem Dimensional**
+Consultas profissionais aplicadas em cenários reais: CTEs, janelas, joins, ETL analítico.
+
 🔗 https://github.com/Cibelly09/sql-analytics-portfolio
 
-### 🧹 **Pipeline de Limpeza e Mesclagem**  
-Integração de múltiplas bases com Pandas e ETL estruturado.  
-🔗 https://github.com/Cibelly09/limpezadados
+---
+
+## 🤖 **NLP — Comparação Inteligente de Itens por Descrição**
+Uso de Processamento de Linguagem Natural para comparar itens semelhantes por texto.
+
+🔗 https://github.com/Cibelly09/An-lise-de-NLP-para-comparativo-de-pre-os-de-itens-similares
 
 ---
 
@@ -69,45 +73,45 @@ Integração de múltiplas bases com Pandas e ETL estruturado.
 
 # 🧰 Tecnologias que Uso
 
+</div>
+
 | Categoria | Ferramentas |
 |----------|-------------|
-| **Linguagens** | Python • R • SQL |
-| **Análises** | ACM • K-Means • EDA • Clusterização |
-| **Visualização** | Power BI • Matplotlib |
-| **Bancos** | PostgreSQL • MySQL |
-| **Ferramentas** | QGIS • VSCode • GitHub • Jupyter |
-| **Especialidades** | Modelagem Dimensional • ETL • Storytelling com dados |
-
-</div>
+| **Linguagens** | SQL, Python, R |
+| **Análise & Visualização** | Power BI, Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-Learn, Clusterização, PCA, ACM |
+| **Bancos** | MySQL • PostgreSQL |
+| **Ferramentas** | GitHub, VSCode, Jupyter, QGIS |
+| **Especialidades** | Modelagem Dimensional (Estrela + Snowflake) • ETL • Storytelling • BI Avançado |
 
 ---
 
 <div align="center">
 
-# 🌱 Estudando Agora
-
-✨ IA Aplicada (agentes, automação, NLP)  
-✨ Pipelines SQL + Python  
-✨ Evolução do style Neon Futurista para BI  
-✨ Portfólio avançado para Data Science  
+# 🌱 O que estou aprendendo agora
 
 </div>
+
+- IA aplicada e automações inteligentes  
+- Pipelines híbridos SQL + Python  
+- Versão profissional do Case Eleitoral  
+- Estruturas de projeto para portfólios de BI/DS  
 
 ---
 
 <div align="center">
 
-# 📫 Onde me Encontrar
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/cibelly-viegas-de-souza-0584a8160/  
-📧 **Email:** cibellyviegas@gmail.com  
+# 📫 Onde me encontrar
 
 </div>
 
----
+💼 **LinkedIn:** https://www.linkedin.com/in/cibelly-viegas-de-souza-0584a8160/  
+✉️ **Email:** cibellyviegas@gmail.com  
+
+<br>
 
 <div align="center">
 
-### **“A curiosidade é o que transforma dados em conhecimento.”**
-
+> **“A curiosidade é o que transforma dados em conhecimento.”**  
 </div>
+
