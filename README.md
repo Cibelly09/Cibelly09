@@ -1,118 +1,114 @@
-# 🌟 Cibelly Viegas — Data Science & Analytics
-<div align="center">
+<h1 align="center">
+  <span style="
+    color:#00eaff;
+    text-shadow: 0 0 8px #00eaff, 0 0 12px #00eaff, 0 0 30px #00eaff;
+    animation: pulse 2s infinite;
+  ">
+    ✨ Cibelly Viegas — Data Science & Analytics
+  </span>
+</h1>
 
-Cientista de Dados com foco em **Analytics, BI, SQL, Python, R, Modelagem Dimensional e IA aplicada**.  
-Apaixonada por transformar dados em decisões — especialmente em temas sociais, eleitorais e comportamento populacional.
-
-</div>
-
----
-
-<div align="center">
-
-### 🧰 Tecnologias que Uso
-</div>
+<style>
+@keyframes pulse {
+  0% { text-shadow: 0 0 8px #00eaff; }
+  50% { text-shadow: 0 0 20px #00eaff, 0 0 35px #00eaff; }
+  100% { text-shadow: 0 0 8px #00eaff; }
+}
+</style>
 
 <p align="center">
+  <strong>Construindo soluções inteligentes com dados, IA aplicada e visualizações avançadas.</strong>
+</p>
 
-<a><img src="https://img.shields.io/badge/Python-0B8FE9?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/SQL-3A3A3A?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api/hr?type=wave&color=00eaff&height=60&section=footer"/>
 </p>
 
 ---
 
-<div align="center">
+<h2 align="center">🚀 Quem Sou Eu</h2>
 
-### 📌 Principais Especialidades
+<p align="center">
+Cientista de Dados especializada em <strong>SQL, Python, R, IA aplicada, modelagem dimensional e BI</strong>.  
+Apaixonada por análises que contam histórias — seja no setor público, corporativo ou acadêmico.  
+</p>
 
-Modelagem Dimensional • SQL Avançado • Python para Analytics •  
-R para estatística • Storytelling de Dados • BI Avançado • Snowflake/Estrela  
-Análise Geográfica (QGIS) • Clusterização • ACM • Visualização Profissional
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Projetos em Destaque
-</div>
-
----
-
-### 🗳️ Case Eleitoral — Perfil de Eleitores com Deficiência (ACM + K-Means + BI)
-🔗 https://github.com/Cibelly09/perfil-eleitoral-pcd-brasil  
-
-Estudo sociopolítico completo com:
-- ACM (Análise de Correspondência Múltipla)  
-- Clusterização K-Means  
-- Análise geográfica e demográfica  
-- Dashboard futurista em Power BI  
-- **Projeto aceito para publicação acadêmica**  
-
----
-
-### 🤖 Web Scraping — Google News Premium
-🔗 https://github.com/Cibelly09/WEBSCRAPING-GOOGLE  
-
-Raspagem avançada com:
-- Múltiplos termos  
-- Filtros inteligentes  
-- Tabelas de análise  
-- PNGs simulados para portfólio  
-
----
-
-### 🧹 Limpeza & Mesclagem de Dados (Python + Pandas)
-🔗 https://github.com/Cibelly09/data-cleaning-python  
-
-Pipelines práticos:
-- Padronização  
-- União de bases  
-- Tratamento e organização de dados reais  
-
----
-
-### 🧮 SQL Analytics Portfolio
-🔗 https://github.com/Cibelly09/sql-analytics-portfolio  
-
-Contém:
-- Consultas SQL avançadas  
-- Cenários de negócio  
-- Modelagem dimensional  
-- Exercícios de performance  
-
----
+<h2 align="center">📌 Projetos em Destaque</h2>
 
 <div align="center">
 
-### 🌱 O que estou aprendendo agora
-IA aplicada e automações  
-Pipelines híbridos SQL + Python  
-Versão profissional do Case Eleitoral  
-Arquiteturas para portfólios BI & DS  
+| 🧠 Projeto | 📄 Descrição | 🛠 Tecnologias |
+|-----------|-------------|----------------|
+| 🔷 <a href="https://github.com/Cibelly09/perfil-eleitoral-pcd-brasil">Perfil Eleitoral de Pessoas com Deficiência</a> | Case completo com ACM, K-Means, análise espacial, indicadores e BI Neon. <br><strong>Projeto aceito para publicação acadêmica.</strong> | R • ACM • QGIS • Power BI |
+| 🤖 <a href="https://github.com/Cibelly09/WEBSCRAPING-GOOGLE">Webscraping Google</a> | Coleta automatizada de dados, BeautifulSoup, pipelines | Python |
+| 🧹 <a href="https://github.com/Cibelly09/data-cleaning-python">Limpeza e Mesclagem de Dados</a> | Estruturas de limpeza, ETL, união de bases, padronização | Python • Pandas |
+| 🧾 <a href="https://github.com/Cibelly09/sql-analytics-portfolio">Projetos SQL</a> | Consultas avançadas + modelagem dimensional aplicada | SQL |
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api/hr?type=wave&color=00eaff&height=60&section=footer"/>
+</p>
 
 ---
 
+<h2 align="center">🧰 Tecnologias que Uso</h2>
+
 <div align="center">
 
-### 📫 Onde me encontrar  
-💼 LinkedIn: https://www.linkedin.com/in/cibelly-viegas-de-souza-0584a8160/  
-✉️ Email: **cibellyviegas@gmail.com**
+<!-- Badges -->
+<img src="https://img.shields.io/badge/Python-00eaff?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-00eaff?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-00eaff?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-00eaff?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+<br><br>
+
+<!-- Tabela -->
+<table>
+<tr><th>Categoria</th><th>Ferramentas</th></tr>
+<tr><td><strong>Linguagens</strong></td><td>Python • SQL • R</td></tr>
+<tr><td><strong>Análises</strong></td><td>Pandas • Scikit-Learn • Matplotlib</td></tr>
+<tr><td><strong>BI</strong></td><td>Power BI</td></tr>
+<tr><td><strong>Geoanálise</strong></td><td>QGIS</td></tr>
+<tr><td><strong>Bancos</strong></td><td>MySQL • PostgreSQL</td></tr>
+<tr><td><strong>Ambientes</strong></td><td>VSCode • GitHub • Jupyter</td></tr>
+<tr><td><strong>Especialidades</strong></td><td>ETL • Storytelling • Modelagem Dimensional • IA aplicada • Snowflake & Star Schema</td></tr>
+</table>
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api/hr?type=wave&color=00eaff&height=60&section=footer"/>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">🌱 O que estou aprendendo agora</h2>
 
-**“A curiosidade é o que transforma dados em conhecimento.”**  
+<p align="center">
+IA aplicada a automações inteligentes<br>
+Pipelines híbridos SQL + Python<br>
+Versão profissional do Case Eleitoral<br>
+Estruturas de projeto para portfólios de BI/DS
+</p>
 
-✨💙
+<br>
 
-</div>
+<h2 align="center">📫 Onde me encontrar</h2>
+
+<p align="center">
+📎 <a href="https://www.linkedin.com/in/cibelly-viegas-de-souza-0584a8160/">LinkedIn</a><br>
+📧 <strong>cibellyviegas@gmail.com</strong>
+</p>
+
+<br>
+
+<p align="center"><i>“A curiosidade é o que transforma dados em conhecimento.”</i></p>
+
