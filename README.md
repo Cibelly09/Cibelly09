@@ -21,22 +21,10 @@ Tenho formação em **Data Science e Analytics**, com foco em **SQL, Python, R, 
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| 🗳️ **Perfil Eleitoral de Pessoas com Deficiência**  
-[Ver Projeto](https://github.com/Cibelly09/An-lise-de-Correlac-o-M-tiplia) |  
-Case completo com **Análise de Correspondência Múltipla**, clusterização (K-Means/ACM), análise geográfica e insights sociopolíticos. **Projeto aceito para publicação acadêmica.** |  
-R, ACM, QGIS, Power BI |
-| 🤖 **Mini Pipelines de IA**  
-[Ver Projeto](https://github.com/Cibelly09/Cibelly09) |  
-Scripts simples para automação com Python, limpeza inteligente e protótipos usando NLP |  
-Python, IA aplicada |
-| 🧮 **Projetos SQL**  
-[Repositório SQL](https://github.com/Cibelly09/sql-analytics-portfolio) |  
-Consultas SQL aplicadas em cenários simulados de negócio |  
-SQL (PostgreSQL/MySQL) |
-| 🧹 **Pipeline de Limpeza e Mesclagem**  
-[Ver Projeto](https://github.com/Cibelly09/limpezadados) |  
-Automação de etapas de limpeza, padronização e integração de bases em Python |  
-Python, Pandas |
+| 🗳️ [Perfil Eleitoral de Pessoas com Deficiência](https://github.com/Cibelly09/An-lise-de-Correlac-o-M-tiplia) | Case completo com ACM, clusterização (K-means), análise geográfica e insights sociopolíticos. **Projeto aceito para publicação acadêmica.** | R, ACM, QGIS, Power BI |
+| 🤖 [Mini Pipelines de IA](https://github.com/Cibelly09/Cibelly09) | Scripts simples para automação com Python, limpeza inteligente e protótipos usando NLP | Python, IA aplicada |
+| 🧮 [Projetos SQL](https://github.com/Cibelly09/sql-analytics-portfolio) | Consultas SQL aplicadas em cenários simulados de negócio | SQL (PostgreSQL/MySQL) |
+| 🧹 [Pipeline de Limpeza e Mesclagem](https://github.com/Cibelly09/limpezadados) | Automação de limpeza, padronização e integração de bases em Python | Python, Pandas |
 
 ---
 
