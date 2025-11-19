@@ -6,8 +6,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
 <img src="https://img.shields.io/badge/Python-0A0F1F?style=for-the-badge&logo=python&logoColor=00eaff" />
 <img src="https://img.shields.io/badge/SQL-0A0F1F?style=for-the-badge&logo=mysql&logoColor=00eaff" />
 <img src="https://img.shields.io/badge/R-0A0F1F?style=for-the-badge&logo=r&logoColor=00eaff" />
