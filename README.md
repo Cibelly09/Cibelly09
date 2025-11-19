@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="./imgs/capa.png" width="100%">
-
 ---
 
 # ✨ Cibelly Viegas — Data Science & Analytics  
-### *Neon Edition*
 
 ---
 
