@@ -1,18 +1,19 @@
 # 👋 Oi, eu sou a Cibelly
 
 Sou uma Cientista de Dados movida por desafios e pela curiosidade de entender como os dados contam histórias.  
-Tenho formação em **Data Science e Analytics**, com foco em **SQL, Python, R, Power BI e modelagem dimensional**, aplicando esses conhecimentos em análises reais — especialmente em dados eleitorais, comportamento populacional e cases de negócio.
+Tenho formação em **Data Science e Analytics**, com foco em **SQL, Python, R, Power BI, IA aplicada e modelagem dimensional**, aplicando esses conhecimentos em análises reais — especialmente em dados eleitorais, comportamento populacional e cases de negócio.
 
 ---
 
 ## 🚀 O que eu faço
 
-- 🧹 **Limpeza, preparação e transformação** de dados com Python (Pandas) e R  
-- 🗄️ **Consultas SQL avançadas** (joins, subqueries, agregações, CTEs) e integração entre bancos  
-- 📊 **Análises exploratórias e estatísticas** para identificar padrões relevantes  
+- 🧹 **Limpeza, preparação e transformação** de dados com Python e R  
+- 🗄️ **Consultas SQL avançadas** (joins, agregações, subqueries e CTEs)  
+- 📊 **Análises exploratórias, estatísticas e clusterização**  
+- 🤖 **Aplicação prática de IA e Machine Learning** para análise e automação  
+- 🧠 Interesse crescente em **NLP (Processamento de Linguagem Natural)** e modelos generativos  
 - 📈 **Visualização, storytelling e dashboards** com Power BI  
-- 🗺️ **Análise espacial e geográfica** (QGIS)  
-- 🧠 Interesse crescente em **Machine Learning e NLP**
+- 🗺️ **Análise espacial e geográfica** (QGIS)
 
 ---
 
@@ -20,9 +21,10 @@ Tenho formação em **Data Science e Analytics**, com foco em **SQL, Python, R, 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|--------------|
-| [🗳️ Perfil Eleitoral de Pessoas com Deficiência](https://github.com/Cibelly09/An-lise-de-Correla-o-M-ltipla) | Case completo com **Análise de Correspondência Múltipla**, clusterização e análise geográfica para investigar o perfil do eleitorado PCD no Brasil. **Projeto aceito para publicação acadêmica.** | R, ACM, QGIS, Power BI |
-| [💾 Pipeline de Limpeza e Mesclagem](https://github.com/Cibelly09/limpezadados) | Automação de etapas de limpeza, padronização e integração de bases em Python | Python, Pandas |
+| [🗳️ Perfil Eleitoral de Pessoas com Deficiência](https://github.com/Cibelly09/An-lise-de-Correla-o-M-ltipla) | Case completo com **Análise de Correspondência Múltipla**, clusterização (K-Means/ACM), análise geográfica e insights sociopolíticos. **Projeto aceito para publicação acadêmica.** | R, ACM, QGIS, Power BI |
+| [🤖 Mini Pipelines de IA](https://github.com/Cibelly09) | Scripts simples para automação com Python, limpeza inteligente e protótipos usando NLP | Python, IA aplicada |
 | [🧠 Projetos SQL](https://github.com/Cibelly09/SQL-Projects) | Consultas SQL aplicadas em cenários simulados de negócio | SQL (PostgreSQL/MySQL) |
+| [💾 Pipeline de Limpeza e Mesclagem](https://github.com/Cibelly09/limpezadados) | Automação de etapas de limpeza, padronização e integração de bases em Python | Python, Pandas |
 
 ---
 
@@ -32,16 +34,18 @@ Tenho formação em **Data Science e Analytics**, com foco em **SQL, Python, R, 
 |----------|-------------|
 | **Linguagens** | SQL, Python, R |
 | **Análise & Visualização** | Power BI, Matplotlib |
+| **Machine Learning** | Scikit-Learn (clusterização, EDA, modelagem inicial), NLP básico |
 | **Bancos** | MySQL, PostgreSQL |
 | **Ferramentas** | GitHub, VSCode, Jupyter, QGIS |
-| **Outros** | Modelagem dimensional • ETL • Storytelling • Data Cleaning |
+| **Outros** | Modelagem dimensional • ETL • Storytelling • IA aplicada |
 
 ---
 
 ## 🌱 O que estou aprendendo agora
-- Estruturar pipelines SQL + Python  
-- Boas práticas de versionamento (Git)  
-- Ampliar meu portfólio com cases completos em BI e SQL
+- Projetos de **IA para automação e análise**  
+- Pipelines SQL + Python  
+- Versão profissional do case eleitoral para GitHub  
+- Aprimorando portfólio avançado para BI e Data Science  
 
 ---
 
@@ -51,4 +55,5 @@ Tenho formação em **Data Science e Analytics**, com foco em **SQL, Python, R, 
 
 ---
 
-> “A curiosidade é o que transforma dados em conhecimento.”
+> **“A curiosidade é o que transforma dados em conhecimento.”**
+
